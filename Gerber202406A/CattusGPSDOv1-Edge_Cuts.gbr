@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.0*%
+%TF.CreationDate,2024-06-03T00:37:32+08:00*%
+%TF.ProjectId,CattusGPSDOv1,43617474-7573-4475-9053-444f76312e6b,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.0) date 2024-06-03 00:37:32*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X114190000Y-68390000D02*
+X184210000Y-68390000D01*
+X184210000Y-128390000D01*
+X114190000Y-128390000D01*
+X114190000Y-68390000D01*
+M02*
